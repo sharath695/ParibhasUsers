@@ -7,4 +7,7 @@ public class Course {
 	public void python() {
 		System.out.println("Python course");
 	}
+	public void php() {
+		System.out.println("Php course");
+	}
 }
