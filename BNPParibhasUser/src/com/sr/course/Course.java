@@ -4,4 +4,7 @@ public class Course {
 	public void java() {
 		System.out.println("Java course");
 	}
+	public void python() {
+		System.out.println("Python course");
+	}
 }
